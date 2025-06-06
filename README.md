@@ -20,7 +20,7 @@ Open the index.html file in your browser.
 Usage
 Click the Generate Quote button to display a new fortune quote.
 
-You can add or modify quotes in the quotes.js file.
+You can add or modify quotes in the script.js file.
 
 Technologies Used:
 
