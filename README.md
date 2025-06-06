@@ -22,12 +22,13 @@ Click the Generate Quote button to display a new fortune quote.
 
 You can add or modify quotes in the quotes.js file.
 
-Technologies Used
-HTML
+Technologies Used:
 
-Tailwind CSS
+- HTML
 
-JavaScript
+- Tailwind CSS
+
+- JavaScript
 
 
 License
